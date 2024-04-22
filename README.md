@@ -13,3 +13,6 @@
 
 ## Running RabbitMQ
 ![alt text](image1.png)
+
+## Subscriber Console
+![alt text](image2.png)
