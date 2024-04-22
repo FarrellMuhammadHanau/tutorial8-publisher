@@ -10,3 +10,6 @@
 
 2. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean? <br>
     Hal ini berarti publisher menggunakan server dengan hostname yang sama yaitu localhost dan port yang sama yaitu 5672, dan autentikasi dengan username yang sama yaitu guest dengan password yang sama yaitu guest
+
+## Running RabbitMQ
+![alt text](image1.png)
