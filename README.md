@@ -16,3 +16,7 @@
 
 ## Subscriber Console
 ![alt text](image2.png)
+
+## Spikes
+![alt text](image3.png)
+Spikes ini terjadi ketika saya menjalankan publisher (saya menjalankan 3 kali dalam 1 menit) dan publisher akan mengirimkan 5 data dalam setiap run 
